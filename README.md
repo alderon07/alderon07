@@ -4,7 +4,7 @@ Developer
 ---------
 
 * 🌍  I'm based in New York
-* 🖥️  Check out my [website](http://naqihaider.vercel.app). It's still a WIP so don't expect much :).
+* 🖥️  Check out my [website](http://naqihaider.vercel.app). It's still a WIP so don't expect much :)
 
 ### Skills
 
