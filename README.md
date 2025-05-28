@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-* 🌍  I'm based in New York
 * 🖥️  Check out my [website](http://naqihaider.vercel.app). It's still a WIP so don't expect much :)
 
 ### Skills
