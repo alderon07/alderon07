@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-* 🖥️  Check out my [website](http://naqihaider.vercel.app). It's still a WIP so don't expect much :)
+* 🖥️  Check out my [website](http://naqihaider.vercel.app). It's still a WIP so expect more to come :)
 
 ### Skills
 
